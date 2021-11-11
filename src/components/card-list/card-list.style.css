@@ -2,8 +2,10 @@
 .cardList{
   display: grid;
   justify-items: center;
+  
   width: 90vw;
-  grid-template-columns: 1fr 1fr  1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   margin: 0 auto;
-  grid-gap: 20px;
+  column-gap: 40px;
+  row-gap: 20px;
 }
