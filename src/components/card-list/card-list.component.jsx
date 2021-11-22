@@ -4,7 +4,9 @@ import './card-list.style.css'
 export const Cardlist = function (props) {
     return (
         <div className="cardList">
-            {props.monster.map(monster=><Card key={monster.id} monster={monster}/>)}
+            {props.filteredPresident.map(item =>
+                <Card key={item.id} president={item} img={item.img} />
+            )}
         </div>
         
     )

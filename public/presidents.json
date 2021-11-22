@@ -1,0 +1,55 @@
+[
+    {
+        "id":3,
+        "name": "Barack Obama",
+        "saying": ["Change will not come if we wait for some other person or",
+        "some other time. We are the ones we've been waiting for. We are the change that we seek."],
+        "presidency":"2009-2017",
+        "img":"./720px-president_barack_obama.jpg"
+    },
+    {
+        "id":5,
+        "name":"Bill Clinton ",
+        "saying":["We all do better when we work together.",
+        "Our differences do matter, but our common humanity matters more."],
+        "presidency":"1993-2001"
+    },
+    {
+        "id":2,
+        "name":"Donald Trump",
+        "saying":["I try to learn from the past,",
+         "but I plan for the future by focusing exclusively on the present."],
+         "presidency":"2017-2021"
+    },
+    {
+        "id":7,
+        "name":"Dwight Eisenhower",
+        "saying":["A people that values its privileges above its principles soon loses both."],
+        "presidency":"1953-1961"
+    },
+    {
+        "id":8,
+        "name":"Franklin Roosevelt",
+        "saying":["Nobody cares how much you know, until they know how much you care."],
+        "presidency":"1933-1945"
+    },
+    {
+        "id":1,
+        "name":"Joe Bidden",
+        "saying":["Fighting corruption is not just good governance. It's self-defense. It's patriotism."],
+        "presidency":"2021-"
+    },
+    {
+        "id":4,
+        "name":"George W. Bush",
+        "saying":["Freedom itself was attacked this morning by a faceless coward, and freedom will be defended."],
+        "presidency":"2001-2009"
+    },
+    {
+        "id":6,
+        "name":"George H. W. Bush",
+        "saying":["No problem of human making is too great to be overcome by", 
+            "human ingenuity, human energy, and the untiring hope of the human spirit."],
+        "presidency":"1989-1993"
+    }
+]
