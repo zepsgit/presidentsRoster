@@ -79,7 +79,7 @@ class App extends Component {
           "presidency": "1981-1989",
           "img": Reagan
         },
-        
+
         {
           "id": 8,
           "name": "James Earl Carter",
@@ -87,25 +87,25 @@ class App extends Component {
           "presidency": "1977-1981",
           "img": jimmy_carter
         },
-        
+
         {
           "id": 9,
           "name": "Gerald Rudolph Ford",
-          "saying": ["A government big enough to give you everything", 
-          "you want is a government big enough to take from you everything you have."],
+          "saying": ["A government big enough to give you everything",
+            "you want is a government big enough to take from you everything you have."],
           "presidency": "1974-1977",
           "img": ford
         },
-        
+
         {
           "id": 10,
-          "name": "Richard Milhous Nixon",
-          "saying": ["If you take no risks, you will suffer no defeats.", 
-          "But if you take no risks, you win no victories."],
+          "name": "Richard Nixon",
+          "saying": ["If you take no risks, you will suffer no defeats.",
+            "But if you take no risks, you win no victories."],
           "presidency": "1969-1974",
           "img": richardnixon
         },
-        
+
         {
           "id": 11,
           "name": "Lyndon Johnson",
@@ -127,12 +127,12 @@ class App extends Component {
           "presidency": "1953-1961",
           "img": eisenhower
         },
-        
+
         {
           "id": 14,
           "name": "Harry Truman",
           "saying": ["America was not built on fear. America was built on courage,",
-           "on imagination and an unbeatable determination to do the job at hand."],
+            "on imagination and an unbeatable determination to do the job at hand."],
           "presidency": "1945-1953",
           "img": harrytruman
         },
@@ -148,16 +148,16 @@ class App extends Component {
           "id": 16,
           "name": "Herbert Hoover",
           "saying": ["Freedom is the open window through which pours the",
-           "sunlight of the human spirit and human dignity."],
+            "sunlight of the human spirit and human dignity."],
           "presidency": "1929-1933",
           "img": herbert_hoover
-        }   
+        }
       ],
       searchField: ''
     }
   }
   onChangeHandler = e => this.setState({ searchField: e.target.value });
-  
+
   render() {
     const { president, searchField } = this.state;
     const filteredSearchField = president.filter(items =>
