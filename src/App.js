@@ -19,6 +19,7 @@ import Joe_Biden from './presidents/Joe_Biden.jpg'
 import johnson from './presidents/Johnson.jpg'
 import kennedy from './presidents/Kennedy.jpeg'
 import Reagan from './presidents/Reagan.jpg'
+import richardnixon from './presidents/richardnixon.jpg'
 
 class App extends Component {
   constructor() {
@@ -102,7 +103,7 @@ class App extends Component {
           "saying": ["If you take no risks, you will suffer no defeats.", 
           "But if you take no risks, you win no victories."],
           "presidency": "1969-1974",
-          "img": ford
+          "img": richardnixon
         },
         
         {
