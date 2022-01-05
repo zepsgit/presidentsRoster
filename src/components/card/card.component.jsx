@@ -2,8 +2,10 @@ import React from "react";
 import './card.style.css'
 export const Card = ({president}) => {
     return (
-        <div className="card">
-            <img style={{ width: "100%" }}
+        <a href={`http://google.com/search?q=${president.name}`}
+         alt="president photo" style={{textDecoration:"none"}} target="_blank">
+            <div className="card">
+            <img style={{ width: "80%" }}
                 alt="US president"
                 src={president.img}/>
 
@@ -11,6 +13,8 @@ export const Card = ({president}) => {
             <h3>{president.presidency}</h3>
             <p>{president.saying}</p>
         </div>
+        </a>
+            
     )
 
 }
