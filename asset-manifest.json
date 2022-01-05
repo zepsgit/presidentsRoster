@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/presidentsRoster/static/css/main.c45e46bc.chunk.css",
+    "main.js": "/presidentsRoster/static/js/main.32b9717d.chunk.js",
+    "main.js.map": "/presidentsRoster/static/js/main.32b9717d.chunk.js.map",
+    "runtime-main.js": "/presidentsRoster/static/js/runtime-main.f07eef9a.js",
+    "runtime-main.js.map": "/presidentsRoster/static/js/runtime-main.f07eef9a.js.map",
+    "static/js/2.2d769c69.chunk.js": "/presidentsRoster/static/js/2.2d769c69.chunk.js",
+    "static/js/2.2d769c69.chunk.js.map": "/presidentsRoster/static/js/2.2d769c69.chunk.js.map",
+    "index.html": "/presidentsRoster/index.html",
+    "static/css/main.c45e46bc.chunk.css.map": "/presidentsRoster/static/css/main.c45e46bc.chunk.css.map",
+    "static/js/2.2d769c69.chunk.js.LICENSE.txt": "/presidentsRoster/static/js/2.2d769c69.chunk.js.LICENSE.txt",
+    "static/media/Joe_Biden.d9caeae2.jpg": "/presidentsRoster/static/media/Joe_Biden.d9caeae2.jpg",
+    "static/media/Johnson.73f26163.jpg": "/presidentsRoster/static/media/Johnson.73f26163.jpg",
+    "static/media/Kennedy.8fce4773.jpeg": "/presidentsRoster/static/media/Kennedy.8fce4773.jpeg",
+    "static/media/Reagan.2bf250e2.jpg": "/presidentsRoster/static/media/Reagan.2bf250e2.jpg",
+    "static/media/barack_obama.546585d8.jpg": "/presidentsRoster/static/media/barack_obama.546585d8.jpg",
+    "static/media/bill_clinton.fade07e5.jpg": "/presidentsRoster/static/media/bill_clinton.fade07e5.jpg",
+    "static/media/donald_Trump.0450989f.jpg": "/presidentsRoster/static/media/donald_Trump.0450989f.jpg",
+    "static/media/eisenhower.1c193d97.jpg": "/presidentsRoster/static/media/eisenhower.1c193d97.jpg",
+    "static/media/ford.2c7876f4.jpg": "/presidentsRoster/static/media/ford.2c7876f4.jpg",
+    "static/media/george_h_w_bush.7bdac9c3.jpg": "/presidentsRoster/static/media/george_h_w_bush.7bdac9c3.jpg",
+    "static/media/georgewbush.298ce3f3.jpg": "/presidentsRoster/static/media/georgewbush.298ce3f3.jpg",
+    "static/media/harrytruman.2edbd489.jpg": "/presidentsRoster/static/media/harrytruman.2edbd489.jpg",
+    "static/media/herbert_hoover.7f1f96d6.jpg": "/presidentsRoster/static/media/herbert_hoover.7f1f96d6.jpg",
+    "static/media/jimmy_carter.2fb8a7f4.jpg": "/presidentsRoster/static/media/jimmy_carter.2fb8a7f4.jpg",
+    "static/media/richardnixon.4ecd167b.jpg": "/presidentsRoster/static/media/richardnixon.4ecd167b.jpg",
+    "static/media/roosevelt.b91aa72b.jpg": "/presidentsRoster/static/media/roosevelt.b91aa72b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f07eef9a.js",
+    "static/js/2.2d769c69.chunk.js",
+    "static/css/main.c45e46bc.chunk.css",
+    "static/js/main.32b9717d.chunk.js"
+  ]
+}
